@@ -1,0 +1,2941 @@
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): news.ycombinator.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /news.html HTTP/1.1" 404 None
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): news.ycombinator.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /news.html HTTP/1.1" 404 None
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): news.ycombinator.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /news.html HTTP/1.1" 404 None
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): news.ycombinator.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /news.html HTTP/1.1" 404 None
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Fri Sep  2 17:10:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:10:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:10:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:10:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:10:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:10:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:10:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:11:00 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Fri Sep  2 17:15:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:15:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:15:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:15:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:15:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:15:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:15:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:15:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:15:50 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Fri Sep  2 17:16:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:16:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:16:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:16:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:16:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:16:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:16:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:16:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:16:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:16:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:16:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:16:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:16:32 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Fri Sep  2 17:17:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:17:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:17:26 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Fri Sep  2 17:17:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:17:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:17:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:17:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:17:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:17:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:17:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:17:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:17:55 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Fri Sep  2 17:18:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:18:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:18:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:18:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:18:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:19:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:19:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:19:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:19:03 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Fri Sep  2 17:19:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:19:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:19:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:19:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:19:36 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Fri Sep  2 17:19:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:19:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:19:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:19:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:19:51 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Fri Sep  2 17:21:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:21:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:21:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:21:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:21:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:21:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:21:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:21:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:21:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:21:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:21:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:21:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:21:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:21:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:21:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:21:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:21:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:21:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:21:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:22:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:23:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:57 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Fri Sep  2 17:24:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:24:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:25:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:26:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:27:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:28:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:29:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:30:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:31:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:32:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:33:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:34:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:35:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:36:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:37:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:38:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:39:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:40:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:41:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:42:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:43:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:44:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:45:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:46:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:47:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:48:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:49:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:50:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:51:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:52:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:53:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:54:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:29 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:30 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:31 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:32 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:33 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:34 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:35 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:36 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:37 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:38 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:39 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:40 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:41 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:42 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:43 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:44 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:45 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:46 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:47 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:48 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:49 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:50 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:51 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:52 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:53 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:54 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:55 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:56 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:57 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:58 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:55:59 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:00 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:01 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:02 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:03 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:04 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:05 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:06 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:07 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:08 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:09 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:10 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:11 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:12 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:13 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:14 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:15 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:16 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:17 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:18 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:19 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:20 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:21 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:22 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:23 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:24 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:25 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:26 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:27 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:28 2016: Successfully finished scraping
+INFO:root:Fri Sep  2 17:56:29 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Sat Sep 10 02:02:34 2016: Successfully finished scraping
+INFO:root:Sat Sep 10 02:02:35 2016: Successfully finished scraping
+INFO:root:Sat Sep 10 02:02:36 2016: Successfully finished scraping
+INFO:root:Sat Sep 10 02:02:37 2016: Successfully finished scraping
+INFO:root:Sat Sep 10 02:02:38 2016: Successfully finished scraping
+INFO:root:Sat Sep 10 02:02:39 2016: Successfully finished scraping
+INFO:root:Sat Sep 10 02:02:40 2016: Successfully finished scraping
+INFO:root:Sat Sep 10 02:02:41 2016: Successfully finished scraping
+INFO:root:Sat Sep 10 02:02:42 2016: Successfully finished scraping
+INFO:root:Sat Sep 10 02:02:43 2016: Successfully finished scraping
+INFO:root:Sat Sep 10 02:02:44 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Sat Sep 10 02:03:52 2016: Successfully finished scraping
+INFO:root:Sat Sep 10 02:03:53 2016: Successfully finished scraping
+INFO:root:Sat Sep 10 02:03:54 2016: Successfully finished scraping
+INFO:root:Sat Sep 10 02:03:55 2016: Successfully finished scraping
+INFO:root:Sat Sep 10 02:03:56 2016: Successfully finished scraping
+INFO:root:Sat Sep 10 02:03:57 2016: Successfully finished scraping
+INFO:root:Sat Sep 10 02:03:58 2016: Successfully finished scraping
+INFO:root:Sat Sep 10 02:03:59 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Sat Sep 10 02:05:44 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Sat Sep 10 02:07:19 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 49, in get_itemlist
+    elements = tree.get_element_by_id('itemlist')
+AttributeError: 'lxml.etree._Element' object has no attribute 'get_element_by_id'
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Sat Sep 10 02:14:13 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 28, in get_itemlist
+    Downloader.download(self)
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 12, in download
+    browser=urllib.urlopen(self.url)
+AttributeError: 'module' object has no attribute 'urlopen'
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 31, in get_itemlist
+    Downloader.download(self)
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 13, in download
+    with urllib.request.urlopen(self.url) as url:
+  File "C:\Python34\lib\urllib\request.py", line 161, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python34\lib\urllib\request.py", line 469, in open
+    response = meth(req, response)
+  File "C:\Python34\lib\urllib\request.py", line 579, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python34\lib\urllib\request.py", line 507, in error
+    return self._call_chain(*args)
+  File "C:\Python34\lib\urllib\request.py", line 441, in _call_chain
+    result = func(*args)
+  File "C:\Python34\lib\urllib\request.py", line 587, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 31, in get_itemlist
+    Downloader.download()
+TypeError: download() missing 1 required positional argument: 'self'
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 31, in get_itemlist
+    Downloader.download(self)
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 13, in download
+    with urllib.request.urlopen(self.url) as url:
+  File "C:\Python34\lib\urllib\request.py", line 161, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python34\lib\urllib\request.py", line 469, in open
+    response = meth(req, response)
+  File "C:\Python34\lib\urllib\request.py", line 579, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python34\lib\urllib\request.py", line 507, in error
+    return self._call_chain(*args)
+  File "C:\Python34\lib\urllib\request.py", line 441, in _call_chain
+    result = func(*args)
+  File "C:\Python34\lib\urllib\request.py", line 587, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 31, in get_itemlist
+    Downloader.download(self)
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 13, in download
+    url = urllib.request.urlopen(self.url)
+  File "C:\Python34\lib\urllib\request.py", line 161, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python34\lib\urllib\request.py", line 469, in open
+    response = meth(req, response)
+  File "C:\Python34\lib\urllib\request.py", line 579, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python34\lib\urllib\request.py", line 507, in error
+    return self._call_chain(*args)
+  File "C:\Python34\lib\urllib\request.py", line 441, in _call_chain
+    result = func(*args)
+  File "C:\Python34\lib\urllib\request.py", line 587, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 31, in get_itemlist
+    Downloader.download(self)
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 13, in download
+    url = urllib.request.urlopen('https://news.ycombinator.com/news.html')
+  File "C:\Python34\lib\urllib\request.py", line 161, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python34\lib\urllib\request.py", line 469, in open
+    response = meth(req, response)
+  File "C:\Python34\lib\urllib\request.py", line 579, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python34\lib\urllib\request.py", line 507, in error
+    return self._call_chain(*args)
+  File "C:\Python34\lib\urllib\request.py", line 441, in _call_chain
+    result = func(*args)
+  File "C:\Python34\lib\urllib\request.py", line 587, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 15, in download
+    url = urllib.request.urlopen(self.url)
+  File "C:\Python34\lib\urllib\request.py", line 161, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python34\lib\urllib\request.py", line 469, in open
+    response = meth(req, response)
+  File "C:\Python34\lib\urllib\request.py", line 579, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python34\lib\urllib\request.py", line 507, in error
+    return self._call_chain(*args)
+  File "C:\Python34\lib\urllib\request.py", line 441, in _call_chain
+    result = func(*args)
+  File "C:\Python34\lib\urllib\request.py", line 587, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 37, in get_itemlist
+    Downloader.download(self)
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 25, in download
+    raise HTTPError
+TypeError: __init__() missing 5 required positional arguments: 'url', 'code', 'msg', 'hdrs', and 'fp'
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 15, in download
+    url = urllib.request.urlopen(self.url)
+  File "C:\Python34\lib\urllib\request.py", line 161, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python34\lib\urllib\request.py", line 469, in open
+    response = meth(req, response)
+  File "C:\Python34\lib\urllib\request.py", line 579, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python34\lib\urllib\request.py", line 507, in error
+    return self._call_chain(*args)
+  File "C:\Python34\lib\urllib\request.py", line 441, in _call_chain
+    result = func(*args)
+  File "C:\Python34\lib\urllib\request.py", line 587, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 38, in get_itemlist
+    Downloader.download(self)
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 25, in download
+    if(response == 404):
+UnboundLocalError: local variable 'response' referenced before assignment
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 15, in download
+    url = urllib.request.urlopen(self.url)
+  File "C:\Python34\lib\urllib\request.py", line 161, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python34\lib\urllib\request.py", line 469, in open
+    response = meth(req, response)
+  File "C:\Python34\lib\urllib\request.py", line 579, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python34\lib\urllib\request.py", line 507, in error
+    return self._call_chain(*args)
+  File "C:\Python34\lib\urllib\request.py", line 441, in _call_chain
+    result = func(*args)
+  File "C:\Python34\lib\urllib\request.py", line 587, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 37, in get_itemlist
+    Downloader.download(self)
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 25, in download
+    raise HTTPError(None, None, None, None, None)
+urllib.error.HTTPError: HTTP Error None: None
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 37, in get_itemlist
+    Downloader.download(self)
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 17, in download
+    response = browser.getcode()
+AttributeError: 'bytes' object has no attribute 'getcode'
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 37, in get_itemlist
+    Downloader.download(self)
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 17, in download
+    response = browser.getcode()
+AttributeError: 'bytes' object has no attribute 'getcode'
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 37, in get_itemlist
+    Downloader.download(self)
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 17, in download
+    response = browser.getcode()
+AttributeError: 'bytes' object has no attribute 'getcode'
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 37, in get_itemlist
+    Downloader.download(self)
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 17, in download
+    response = browser.getcode()
+AttributeError: 'bytes' object has no attribute 'getcode'
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 37, in get_itemlist
+    Downloader.download(self)
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 22, in download
+    self.contents = browser.read()
+AttributeError: 'bytes' object has no attribute 'read'
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 37, in get_itemlist
+    Downloader.download(self)
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 17, in download
+    response = browser.getcode()
+AttributeError: 'str' object has no attribute 'getcode'
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 37, in get_itemlist
+    Downloader.download(self)
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 22, in download
+    self.contents = browser.read()
+AttributeError: 'str' object has no attribute 'read'
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 37, in get_itemlist
+    Downloader.download(self)
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 22, in download
+    self.contents = browser.read()
+AttributeError: 'str' object has no attribute 'read'
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Sat Sep 10 02:44:51 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Sat Sep 10 02:46:35 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Sat Sep 10 02:47:31 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 41, in get_itemlist
+    self.itemlist = tree.xpath("string(//table[@class='itemlist']/tbody/tr[@class='athing']/td[@class = 'title']/span[@class='rank']/text()")
+  File "lxml.etree.pyx", line 1507, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:52198)
+  File "xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:152124)
+  File "xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:151097)
+  File "xpath.pxi", line 213, in lxml.etree._XPathEvaluatorBase._raise_eval_error (src\lxml\lxml.etree.c:150950)
+lxml.etree.XPathEvalError: Invalid expression
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Sat Sep 10 02:49:23 2016: Successfully finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Sun Sep 11 23:25:25 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Sun Sep 11 23:29:24 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Sun Sep 11 23:32:31 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Sun Sep 11 23:33:08 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 41, in get_itemlist
+    self.itemlist = tree.xpath("string(//table[@id='hnmain;]/tbody/tr/td/table[@class='itemlist']/tbody/tr[@class='athing']/td[@class = 'title']/span[@class='rank']/text())")
+  File "lxml.etree.pyx", line 1507, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:52198)
+  File "xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:152124)
+  File "xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:151097)
+  File "xpath.pxi", line 212, in lxml.etree._XPathEvaluatorBase._raise_eval_error (src\lxml\lxml.etree.c:150896)
+lxml.etree.XPathEvalError: Invalid predicate
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Sun Sep 11 23:37:41 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Sun Sep 11 23:40:16 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 48, in get_itemlist
+    #                              //tr[@class='subtext']/a/text())")
+  File "lxml.etree.pyx", line 1507, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:52198)
+  File "xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:152124)
+  File "xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:151097)
+  File "xpath.pxi", line 213, in lxml.etree._XPathEvaluatorBase._raise_eval_error (src\lxml\lxml.etree.c:150950)
+lxml.etree.XPathEvalError: Invalid expression
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Sun Sep 11 23:45:14 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 49, in get_itemlist
+    //tr[@class='subtext']/a/text() )")
+  File "lxml.etree.pyx", line 1507, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:52198)
+  File "xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:152124)
+  File "xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:151097)
+  File "xpath.pxi", line 212, in lxml.etree._XPathEvaluatorBase._raise_eval_error (src\lxml\lxml.etree.c:150896)
+lxml.etree.XPathEvalError: Invalid type
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 49, in get_itemlist
+    //tr[@class='subtext']/a/text() )")
+  File "lxml.etree.pyx", line 1507, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:52198)
+  File "xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:152124)
+  File "xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:151097)
+  File "xpath.pxi", line 212, in lxml.etree._XPathEvaluatorBase._raise_eval_error (src\lxml\lxml.etree.c:150896)
+lxml.etree.XPathEvalError: Invalid type
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 49, in get_itemlist
+    //tr[@class='subtext']/a/text())")
+  File "lxml.etree.pyx", line 1507, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:52198)
+  File "xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:152124)
+  File "xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:151097)
+  File "xpath.pxi", line 212, in lxml.etree._XPathEvaluatorBase._raise_eval_error (src\lxml\lxml.etree.c:150896)
+lxml.etree.XPathEvalError: Invalid type
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 49, in get_itemlist
+    //tr[@class='subtext']/a/text())")
+  File "lxml.etree.pyx", line 1507, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:52198)
+  File "xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:152124)
+  File "xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:151097)
+  File "xpath.pxi", line 212, in lxml.etree._XPathEvaluatorBase._raise_eval_error (src\lxml\lxml.etree.c:150896)
+lxml.etree.XPathEvalError: Invalid type
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 00:20:18 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 60, in get_itemlist
+    (//tr[@class='subtext']/a/text())[%s])" %i)
+TypeError: not enough arguments for format string
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 00:32:39 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 61, in get_itemlist
+    itemlist = tree.xpath(xpaths %i)
+TypeError: unsupported operand type(s) for %: 'list' and 'str'
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 61, in get_itemlist
+    itemlist = tree.xpath(xpaths.format(i))
+AttributeError: 'list' object has no attribute 'format'
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 61, in get_itemlist
+    itemlist = tree.xpath(xpaths[i].format(i))
+TypeError: list indices must be integers, not str
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 62, in get_itemlist
+    itemlist = tree.xpath(xpaths[path_num].format(rank))
+  File "lxml.etree.pyx", line 1507, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:52198)
+  File "xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:152124)
+  File "xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:151097)
+  File "xpath.pxi", line 212, in lxml.etree._XPathEvaluatorBase._raise_eval_error (src\lxml\lxml.etree.c:150896)
+lxml.etree.XPathEvalError: Invalid type
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 63, in get_itemlist
+    itemlist = tree.xpath(xpaths[path_num].format(rank))
+  File "lxml.etree.pyx", line 1507, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:52198)
+  File "xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:152124)
+  File "xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:151097)
+  File "xpath.pxi", line 212, in lxml.etree._XPathEvaluatorBase._raise_eval_error (src\lxml\lxml.etree.c:150896)
+lxml.etree.XPathEvalError: Invalid type
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 65, in get_itemlist
+    thefile.write(itemlist) #Can't output shit
+NameError: name 'itemlist' is not defined
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 00:53:02 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 00:53:38 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 00:55:11 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 00:56:21 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 00:58:37 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 00:59:10 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 01:15:42 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 01:17:09 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 01:17:20 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 01:18:16 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 01:19:54 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 01:24:04 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 01:24:24 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 01:27:30 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 79, in get_itemlist
+    thefile.write("""{\field{\*\fldinst HYPERLINK "https://news.ycombinator.com/{0}"\fldrslt {0}""".format(item))
+ValueError: unexpected '{' in field name
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 79, in get_itemlist
+    thefile.write("""{\\field{\*\\fldinst HYPERLINK "https://news.ycombinator.com/{0}"\\fldrslt {0}""".format(item))
+ValueError: unexpected '{' in field name
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 79, in get_itemlist
+    thefile.write(r"""{\field{\*\fldinst HYPERLINK "https://news.ycombinator.com/{0}"\fldrslt {0}""".format(item))
+ValueError: unexpected '{' in field name
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 79, in get_itemlist
+    thefile.write(r'''{\field{\*\fldinst HYPERLINK "https://news.ycombinator.com/{0}"\fldrslt {0}'''.format(item))
+ValueError: unexpected '{' in field name
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 79, in get_itemlist
+    thefile.write(r"""{\field{\*\fldinst HYPERLINK "https://news.ycombinator.com/{0}"\fldrslt {0} }}""".format(item))
+ValueError: unexpected '{' in field name
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 79, in get_itemlist
+    thefile.write(r"""{\field{\*\fldinst HYPERLINK "https://news.ycombinator.com/{0}"}{\fldrslt {0} }}""".format(item))
+ValueError: unexpected '{' in field name
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 80, in get_itemlist
+    thefile.write(r"""{\field{\*\fldinst HYPERLINK "{0}"}{\fldrslt {1} }}""".format(link, item))
+ValueError: unexpected '{' in field name
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+ERROR:root:Error with the scraping:
+Traceback (most recent call last):
+  File "C:/Users/Raymond/PycharmProjects/HQ/main_loop.py", line 24, in <module>
+    hackerNewsParser.get_itemlist()
+  File "C:\Users\Raymond\PycharmProjects\HQ\scraper.py", line 80, in get_itemlist
+    thefile.write("""{ \\field {\\*\\fldinst HYPERLINK "{0}"} {\\fldrslt {1} } }""".format(link, item))
+ValueError: unexpected '{' in field name
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 03:23:45 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 03:29:41 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 03:32:35 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 03:34:29 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 03:35:25 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 03:35:57 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 03:38:07 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:This message should go to the log file
+INFO:root:Mon Sep 12 03:39:24 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+ERROR:root:Error with the scrapin
+Traceback (most recent call last):
+  File "/home/raymond/PycharmProjects/HQ/main.py", line 14, in <module>
+    hackerNewsParser.get_itemlist()
+  File "/home/raymond/PycharmProjects/HQ/scraper.py", line 45, in get_itemlist
+    thefile = open(path, 'w')
+FileNotFoundError: [Errno 2] No such file or directory: 'result/01_16_01_01_1900.txt'
+DEBUG:root:This message should go to the log file
+ERROR:root:Error with the scrapin
+Traceback (most recent call last):
+  File "/home/raymond/PycharmProjects/HQ/main.py", line 14, in <module>
+    hackerNewsParser.get_itemlist()
+  File "/home/raymond/PycharmProjects/HQ/scraper.py", line 45, in get_itemlist
+    thefile = open(path, 'w')
+FileNotFoundError: [Errno 2] No such file or directory: 'result/01_16_01_01_1900.txt'
+DEBUG:root:This message should go to the log file
+ERROR:root:Error with the scrapin
+Traceback (most recent call last):
+  File "/home/raymond/PycharmProjects/HQ/main.py", line 14, in <module>
+    hackerNewsParser.get_itemlist()
+  File "/home/raymond/PycharmProjects/HQ/scraper.py", line 45, in get_itemlist
+    thefile = open(path, 'w')
+FileNotFoundError: [Errno 2] No such file or directory: 'result/01_17_01_01_1900.txt'
+DEBUG:root:This message should go to the log file
+INFO:root:Tue Sep 20 01:19:27 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+ERROR:root:Error with the scrapin
+Traceback (most recent call last):
+  File "/home/raymond/PycharmProjects/HQ/main.py", line 14, in <module>
+    hackerNewsParser.get_itemlist()
+  File "/home/raymond/PycharmProjects/HQ/scraper.py", line 45, in get_itemlist
+    thefile.write(time + "\n\n\n")
+TypeError: unsupported operand type(s) for +: 'module' and 'str'
+DEBUG:root:This message should go to the log file
+INFO:root:Tue Sep 20 01:24:34 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:Tue Sep 20 01:25:34 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:Tue Sep 20 01:32:41 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:Tue Sep 20 01:33:19 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:Tue Sep 20 01:34:26 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:Tue Sep 20 01:35:31 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:Tue Sep 20 01:35:43 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:Tue Sep 20 01:36:14 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+ERROR:root:Error with the scrapin
+Traceback (most recent call last):
+  File "/home/raymond/PycharmProjects/HQ/main.py", line 14, in <module>
+    hackerNewsParser.get_itemlist()
+  File "/home/raymond/PycharmProjects/HQ/scraper.py", line 43, in get_itemlist
+    thefile.write(super.url + "\n\n" + time.strftime("%d %B, %Y") + "\n\n" + time.strftime("%H:%M") + "\n\n\n")
+AttributeError: type object 'super' has no attribute 'url'
+DEBUG:root:This message should go to the log file
+INFO:root:Tue Sep 20 01:39:15 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+DEBUG:root:This message should go to the log file
+INFO:root:Wed Sep 21 10:51:26 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:Wed Sep 21 10:52:04 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:Fri Sep 23 19:15:21 2016: Finished scraping
+DEBUG:root:This message should go to the log file
+INFO:root:Sat Oct  1 12:19:21 2016: Finished scraping

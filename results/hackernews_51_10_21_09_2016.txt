@@ -1,0 +1,97 @@
+https://news.ycombinator.com/
+
+21 September, 2016
+
+10:51
+
+
+1.
+https://github.com/fogleman/primitive
+Show HN: Primitive Pictures
+from?site=github.com
+https://news.ycombinator.com/593 points
+9 hours ago
+item?id=12539109
+https://news.ycombinator.com/119 comments
+
+
+2.
+https://madhatted.com/2013/6/16/you-do-not-understand-browser-history
+Browser History
+from?site=madhatted.com
+https://news.ycombinator.com/54 points
+3 hours ago
+item?id=12544284
+https://news.ycombinator.com/19 comments
+
+
+3.
+https://blog.couchdb.org/2016/09/20/2-0/
+CouchDB 2.0
+from?site=couchdb.org
+https://news.ycombinator.com/138 points
+5 hours ago
+item?id=12543342
+https://news.ycombinator.com/38 comments
+
+
+4.
+https://github.com/ankane/pgslice
+Pgslice: Postgres partitioning as easy as pie
+from?site=github.com
+https://news.ycombinator.com/65 points
+5 hours ago
+item?id=12543651
+https://news.ycombinator.com/15 comments
+
+
+5.
+https://newrepublic.com/article/136543/fantastic-world-professor-tolkien
+The Fantastic World of Professor Tolkien (1956)
+from?site=newrepublic.com
+https://news.ycombinator.com/64 points
+5 hours ago
+item?id=12517423
+https://news.ycombinator.com/36 comments
+
+
+6.
+https://www.sandisk.com/about/media-center/press-releases/2016/western-digital-demonstrates-prototype-of-the-worlds-first-1terabyte-SDXC-card
+SanDisk Announces 1TB SDXC Card
+from?site=sandisk.com
+https://news.ycombinator.com/5 points
+30 minutes ago
+item?id=12538993
+https://news.ycombinator.com/235 comments
+
+
+7.
+http://www.bloomberg.com/news/articles/2016-09-20/self-driving-cars-must-meet-15-benchmarks-in-new-u-s-guidance
+Self-Driving Cars Must Meet 15 Benchmarks in U.S. Guidance
+from?site=bloomberg.com
+https://news.ycombinator.com/221 points
+14 hours ago
+item?id=12539522
+https://news.ycombinator.com/75 comments
+
+
+8.
+https://ts.data61.csiro.au/publications/nictaabstracts/Heiser_Elphinstone_16.abstract.pml
+L4 microkernels: The lessons from 20 years of research and deployment
+from?site=data61.csiro.au
+https://news.ycombinator.com/183 points
+12 hours ago
+item?id=12541383
+https://news.ycombinator.com/317 comments
+
+
+9.
+https://letsencrypt.org/2016/09/20/what-it-costs-to-run-lets-encrypt.html
+What It Costs to Run Let's Encrypt
+from?site=letsencrypt.org
+https://news.ycombinator.com/531 points
+9 hours ago
+item?id=12541108
+https://news.ycombinator.com/72 comments
+
+

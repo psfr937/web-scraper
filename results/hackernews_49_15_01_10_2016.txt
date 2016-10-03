@@ -1,0 +1,97 @@
+https://news.ycombinator.com/
+
+01 October, 2016
+
+15:49
+
+
+1.
+http://www.newyorker.com/science/maria-konnikova/practice-doesnt-make-perfect
+Practice Doesn't Make Perfect
+from?site=newyorker.com
+https://news.ycombinator.com/78 points
+4 hours ago
+item?id=12616426
+https://news.ycombinator.com/49 comments
+
+
+2.
+http://blogs.scientificamerican.com/plugged-in/driverless-electric-shuttles-now-operating-in-lyon-france/
+Driverless, Electric Shuttles Now Operating in Lyon, France
+from?site=scientificamerican.com
+https://news.ycombinator.com/48 points
+4 hours ago
+item?id=12616432
+https://news.ycombinator.com/12 comments
+
+
+3.
+https://priceonomics.com/ranking-the-most-beloved-tv-shows-that-got/
+Fox really shouldn't have canceled Firefly
+from?site=priceonomics.com
+https://news.ycombinator.com/11 points
+1 hour ago
+item?id=12616746
+https://news.ycombinator.com/2 comments
+
+
+4.
+https://yahooeng.tumblr.com/post/151148689421/open-sourcing-a-deep-learning-solution-for
+Open Sourcing a Deep Learning Solution for Detecting NSFW Images
+from?site=yahooeng.tumblr.com
+https://news.ycombinator.com/381 points
+13 hours ago
+item?id=12614193
+https://news.ycombinator.com/119 comments
+
+
+5.
+http://www.anandtech.com/show/10719/usbif-publishes-audio-over-usb-typec-specifications
+USB-IF Publishes Audio Over USB Type-C Specifications
+from?site=anandtech.com
+https://news.ycombinator.com/28 points
+4 hours ago
+item?id=12616136
+https://news.ycombinator.com/22 comments
+
+
+6.
+http://nim-lang.org/news/2016_09_30_version_0_15_0_released.html?ref=hn
+Nim Programming Language v0.15.0 released
+from?site=nim-lang.org
+https://news.ycombinator.com/78 points
+7 hours ago
+item?id=12615916
+https://news.ycombinator.com/19 comments
+
+
+7.
+https://about.gitlab.com/2016/09/30/what-founders-ask-founders-about-getting-into-yc/
+What Founders Ask Founders About Getting into Y Combinator
+from?site=gitlab.com
+https://news.ycombinator.com/73 points
+8 hours ago
+item?id=12615723
+https://news.ycombinator.com/41 comments
+
+
+8.
+https://bugs.openjdk.java.net/browse/JDK-8166089
+Ahead-of-Time Compilation
+from?site=java.net
+https://news.ycombinator.com/88 points
+4 hours ago
+item?id=12616413
+https://news.ycombinator.com/52 comments
+
+
+9.
+http://willdrevo.com/fingerprinting-and-audio-recognition-with-python/
+Audio Fingerprinting with Python and Numpy
+from?site=willdrevo.com
+https://news.ycombinator.com/139 points
+12 hours ago
+item?id=12614794
+https://news.ycombinator.com/28 comments
+
+

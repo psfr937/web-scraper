@@ -1,0 +1,97 @@
+https://news.ycombinator.com/
+
+23 September, 2016
+
+19:15
+
+
+1.
+http://www.businessinsider.com/akamai-brian-krebs-ddos-attack-2016-9
+Akamai takes Brian Krebs’ site off its servers after ‘record’ cyberattack
+from?site=businessinsider.com
+https://news.ycombinator.com/438 points
+8 hours ago
+item?id=12561928
+https://news.ycombinator.com/230 comments
+
+
+2.
+http://blog.elcomsoft.com/2016/09/ios-10-security-weakness-discovered-backup-passwords-much-easier-to-break/
+iOS 10: Security Weakness Discovered, Backup Passwords Much Easier to Break
+from?site=elcomsoft.com
+https://news.ycombinator.com/82 points
+4 hours ago
+item?id=12562849
+https://news.ycombinator.com/24 comments
+
+
+3.
+http://www.wsj.com/articles/facebook-overestimated-key-video-metric-for-two-years-1474586951
+Facebook Overestimated Key Video Metric for Two Years
+from?site=wsj.com
+https://news.ycombinator.com/203 points
+11 hours ago
+item?id=12561302
+https://news.ycombinator.com/102 comments
+
+
+4.
+http://www.bloomberg.com/news/articles/2016-09-22/three-brothers-seek-to-overtake-tesla-with-souped-up-plug-in-car
+Kreisel Electric takes on Tesla
+from?site=bloomberg.com
+https://news.ycombinator.com/33 points
+5 hours ago
+item?id=12562631
+https://news.ycombinator.com/21 comments
+
+
+5.
+http://spf13.com/post/joining-go-team-at-google
+I’m joining the Go team at Google
+from?site=spf13.com
+https://news.ycombinator.com/67 points
+8 hours ago
+item?id=12562019
+https://news.ycombinator.com/36 comments
+
+
+6.
+item?id=12563574
+Are Search Engines Blackwashing Their Search Results?
+from?site=eff.org
+https://news.ycombinator.com/7 points
+29 minutes ago
+item?id=12563574
+https://news.ycombinator.com/1 comment
+
+
+7.
+item?id=12556160
+Ask HN: What are the must-read books about economics/finance?
+from?site=gnuplotting.org
+https://news.ycombinator.com/234 points
+10 hours ago
+item?id=12556160
+https://news.ycombinator.com/132 comments
+
+
+8.
+https://www.eff.org/deeplinks/2016/09/playpen-story-fbis-unprecedented-and-illegal-hacking-operation
+Playpen: The Story of the FBI’s Unprecedented and Illegal Hacking Operation
+from?site=tesla.com
+https://news.ycombinator.com/126 points
+12 hours ago
+item?id=12560902
+https://news.ycombinator.com/40 comments
+
+
+9.
+http://www.gnuplotting.org/
+Gnuplotting – Create scientific plots using gnuplot
+from?site=hakaimagazine.com
+https://news.ycombinator.com/84 points
+10 hours ago
+item?id=12556126
+https://news.ycombinator.com/37 comments
+
+

@@ -1,0 +1,97 @@
+https://news.ycombinator.com/
+
+01 October, 2016
+
+12:41
+
+
+1.
+https://bugs.openjdk.java.net/browse/JDK-8166089
+AOT compilation is coming to Java 9
+from?site=java.net
+https://news.ycombinator.com/40 points
+1 hour ago
+item?id=12616413
+https://news.ycombinator.com/14 comments
+
+
+2.
+http://www.newyorker.com/science/maria-konnikova/practice-doesnt-make-perfect
+Practice Doesn't Make Perfect
+from?site=newyorker.com
+https://news.ycombinator.com/15 points
+1 hour ago
+item?id=12616426
+https://news.ycombinator.com/6 comments
+
+
+3.
+https://yahooeng.tumblr.com/post/151148689421/open-sourcing-a-deep-learning-solution-for
+Open Sourcing a Deep Learning Solution for Detecting NSFW Images
+from?site=yahooeng.tumblr.com
+https://news.ycombinator.com/359 points
+10 hours ago
+item?id=12614193
+https://news.ycombinator.com/115 comments
+
+
+4.
+https://corpgov.law.harvard.edu/2016/09/29/90-cents-of-every-pay-for-performance-dollar-are-paid-for-luck/
+90 Cents of Every 'Pay-For-Performance' Dollar for CEOs Are Paid for Luck
+from?site=harvard.edu
+https://news.ycombinator.com/453 points
+14 hours ago
+item?id=12612564
+https://news.ycombinator.com/262 comments
+
+
+5.
+http://www.wsj.com/articles/homeowners-on-the-move-are-choosing-more-affordable-states-1474795802
+Homeowners on the Move Are Choosing More Affordable States
+from?site=wsj.com
+https://news.ycombinator.com/28 points
+3 hours ago
+item?id=12616141
+https://news.ycombinator.com/17 comments
+
+
+6.
+http://nim-lang.org/news/2016_09_30_version_0_15_0_released.html?ref=hn
+Nim Programming Language v0.15.0 released
+from?site=nim-lang.org
+https://news.ycombinator.com/52 points
+4 hours ago
+item?id=12615916
+https://news.ycombinator.com/10 comments
+
+
+7.
+https://about.gitlab.com/2016/09/30/what-founders-ask-founders-about-getting-into-yc/
+What Founders Ask Founders About Getting into Y Combinator
+from?site=gitlab.com
+https://news.ycombinator.com/57 points
+5 hours ago
+item?id=12615723
+https://news.ycombinator.com/38 comments
+
+
+8.
+http://willdrevo.com/fingerprinting-and-audio-recognition-with-python/
+Audio Fingerprinting with Python and Numpy
+from?site=willdrevo.com
+https://news.ycombinator.com/129 points
+8 hours ago
+item?id=12614794
+https://news.ycombinator.com/21 comments
+
+
+9.
+https://groups.google.com/forum/#!msg/mozilla.dev.planning/j834iDIG3yY/V84Rzw0cEAAJ
+Firefox: Announcing Project Mortar
+from?site=groups.google.com
+https://news.ycombinator.com/143 points
+10 hours ago
+item?id=12614350
+https://news.ycombinator.com/182 comments
+
+
